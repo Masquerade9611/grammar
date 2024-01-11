@@ -14,8 +14,8 @@
 句子非核心部分
 
     I like to eat carrots.
-    I liked eating carrots.
-    I am a talking rabbit.
+    I liked eating carrots. 动名词
+    I am a talking rabbit. 现在分词
     The rabbit likes minced carrots
 
 简单句结构为“什么+怎么样”，故只能存在一个谓语动词来表达“怎么样”，其余部分只能为非谓语动词。
@@ -100,8 +100,6 @@ to + 动词原形（“状态”）
     ->
     a pill for sleeping
 
-
-
 ### 动名词作宾语
 
     The rabbit likes eating carrots.
@@ -128,7 +126,6 @@ to + 动词原形（“状态”）
 
     现在分词，相当于形容词，修饰兔子的状态；
     a sleeping rabbing != a rabbit for sleeping
-
 
 ### 现在分词作表语
 
@@ -162,7 +159,6 @@ to + 动词原形（“状态”）
 不带有“过去”的时间属性
     The rabbit will eat minced carrot next week.  
 
-
 ### 过去分词作定语
 
     可视为形容词
@@ -171,7 +167,6 @@ to + 动词原形（“状态”）
 
 “后置定语”：过去分词短语作定语，放在被修饰的名词之后  
     The carrot cake eaten by the rabbit is delicious.
-
 
 ### 过去分词作主语补语（表语）
 
@@ -197,8 +192,8 @@ to + 动词原形（“状态”）
 
 过去分词与现在分词区分在被动或主动  
 
-
 一个简单句除去核心的谓语动词外，其他动词转换为对应的过去分词或现在分词的用法，称为“独立主格”  
+
     The work finished(过去分词), the rabbit went(谓语动词) home. (简单句)
     ==
     The work was finished, and/so the rabbit went home. (并列句)
@@ -207,6 +202,3 @@ to + 动词原形（“状态”）
     The weather permitting, the rabbit will go out. 
     ==
     If the weather permits, ...
-
-
-
