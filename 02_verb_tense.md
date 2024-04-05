@@ -51,7 +51,7 @@
 ### 一般现在时态
 
 \+ 动词原形  
-\+ 动词原形 \+s (第三人称单数)  
+\+ 动词原形 +s (第三人称单数)  
     I eat carrots.
     She eats carrots.  
 
@@ -103,7 +103,7 @@ The rabbit has eaten a carrot.
 
 ### 现在完成进行时态
 
-对于现在这个时间点，不但已经完成了一部分，还要继续进行的动作
+对于"现在"这个时间点，不但已经完成了一部分，还要继续进行的动作
 
 1. 现在完成时态的构成：have的变位 + 动词的过去分词  
 2. 现在进行时态的构成：be的变位 + 动词的现在分词  
@@ -148,7 +148,7 @@ You were watching my video.
 表达过去某一时间点A的过去B 对A的影响
 
 I had eaten 5 carrots for lunch yesterday, so I wasn't hungry at all yesterday afternoon.  
-He tried to find me yesterday afternoot, but I had already gone to Shanghai.  
+He tried to find me yesterday afternoon, but I had already gone to Shanghai.  
 
 ### 过去完成进行时态
 
@@ -178,7 +178,7 @@ will + be + 动词的现在分词
 在将来的某个时间，某个动作是在进行的过程中；相比一般将来时更加笃定
 
 I will be eating a carrot for lunch tomorrow from 1PM to 3PM.  
-I will be seikouing with /[JINGA/] sometime this year.  
+I will be seikouing with [JINGA] sometime this year.  
 
 ### 将来完成时态
 
