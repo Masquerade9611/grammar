@@ -178,7 +178,7 @@ will + be + 动词的现在分词
 在将来的某个时间，某个动作是在进行的过程中；相比一般将来时更加笃定
 
 I will be eating a carrot for lunch tomorrow from 1PM to 3PM.  
-I will be seikouing with [JINGA] sometime this year.  
+I will be seikouing with [Noa] sometime this year.  
 
 ### 将来完成时态
 
