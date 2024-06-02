@@ -264,4 +264,89 @@ My education made me who I am today.
 
 ### 比较副词从句
 
+    He is smarter **than I am**.  
 
+    This carrot is bigger **than that one is**.  
+
+    She is more beautiful **than Snow White is**.  
+
+    He is as smart as I am.  
+
+    The more you practice English, the more fluent you become.  
+
+## 条件副词从句
+
+    If the rabbit sees a carrot, he will eat it.  
+
+- PS:“主将从现”
+  - “现”所代表的一般现在时态，无明确的时间划分，重点为“一般” 只表示一种状态/属性  
+  - 一般将来时态表示非常确定会发生的事情，"You will get it"  
+  - 从句部分，在表达“如果”这个概念时不确定是否会发生，所以只能用一般时态  
+  - 主句部分，在从句假设的条件成立的状态下，非常确定会去做某事，所以用一般将来时表示
+
+条件句在时态上总是比主句落后一个时间段  
+
+其他引导词 unless, provided, as long as, in case
+
+    Unless you like thiss video, you will not give it a thumps-up.  
+    Provided that mu video is excellent, you will give it a thumbs-up.  
+    As long as I make excellent videos, you will remain my follower.  
+    In case you don't understand, please comment below.  
+
+## 让步副词从句
+
+即使/就算……也……
+(虚拟) Even if I see a carrot, I will not eat it.  
+(真实) Although(though/ even though) I see a carrot, I will not eat it.  
+
+    PS: 中文中需要“虽然”“但是”二者搭配，而英文不需要后者“but”，因为出现前者"引导词"已经构成了复杂句，而"连词"but将会去构成一个复合句，所以不能一起使用。  
+
+no matter / regardless of + 疑问句  
+    No matter what happens, I will not eat the carrot.  
+    不管发生什么事，我都不会吃这胡萝卜。
+
+    Regardless of what kind of video I make, you will give it a thumbs-up.
+
+## 方式副词从句
+
+    I feel good **as if I had just eaten a carrot**.  
+    (主句交代一个确认的情况) (从句表达一个与事实相反的假设)
+    我感觉良好，就像我刚吃了根胡萝卜一样。  
+
+    You spend (so much) money as if you were a millionare.
+
+    Eat the carrot as I do.  
+    Leave the carrot as it is.
+
+## 原因、目的、结果副词从句
+
+### 原因
+
+    The rabbit ate the carrot **because the he was hungry**.  
+
+    Since you are hungry, you can eat the carrot.  
+    既然你饿了，……
+
+    As you were you not here, we ate the carrot without you.  
+    因为你之前不在这，
+
+因果/语气  
+bucause > since > as  
+
+语序  
+because引导的从句，在主句前后都可以  
+since/as的从句，一般只能放在主句之前  
+
+### 目的
+
+目的A(从句) <- 事件B(主句)
+
+**In order that I could finish the video in time**, I pulled an all-nighter.
+
+一般使用情态助词can, could, may, might, should, would等，为了更好体现目的性  
+
+### 结果
+
+I ate a lot of carrots for lunch so that I wasn't hungry at all in the afternoon.  
+
+The temperature was low so that the lake froze.  
